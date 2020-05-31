@@ -1,3 +1,3 @@
-Here's implementation of the most popular math algorithms in Java:
+Here's implementation of some of the most important math algorithms in Java:
 
 - multiplication of two matrices
